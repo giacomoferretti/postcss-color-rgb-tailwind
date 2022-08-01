@@ -5,8 +5,8 @@
   "author": "Giacomo Ferretti",
   "keywords": [],
   "license": "MIT",
-  "main": "dist/plugin.js",
-  "types": "dist/plugin.d.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "clean": "rimraf dist",
     "build": "run-s clean build:tsc",
